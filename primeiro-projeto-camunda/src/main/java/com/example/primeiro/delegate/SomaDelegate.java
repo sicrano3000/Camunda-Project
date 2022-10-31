@@ -3,6 +3,7 @@ package com.example.primeiro.delegate;
 import org.camunda.bpm.engine.delegate.DelegateExecution;
 import org.camunda.bpm.engine.delegate.JavaDelegate;
 
+@Deprecated
 public class SomaDelegate implements JavaDelegate {
 
 	@Override
