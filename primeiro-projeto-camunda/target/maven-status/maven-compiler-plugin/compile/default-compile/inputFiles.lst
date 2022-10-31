@@ -1,1 +1,5 @@
-/home/jhoncrespo/Documentos/Projetos/Pessoal/primeiro-projeto-camunda/src/main/java/com/example/primeiro/Application.java
+/home/jhoncrespo/Documentos/Projetos/Pessoal/Camunda Project/primeiro-projeto-camunda/src/main/java/com/example/primeiro/delegate/DivisaoDelegate.java
+/home/jhoncrespo/Documentos/Projetos/Pessoal/Camunda Project/primeiro-projeto-camunda/src/main/java/com/example/primeiro/delegate/MultiplicacaoDelegate.java
+/home/jhoncrespo/Documentos/Projetos/Pessoal/Camunda Project/primeiro-projeto-camunda/src/main/java/com/example/primeiro/delegate/SubtracaoDelegate.java
+/home/jhoncrespo/Documentos/Projetos/Pessoal/Camunda Project/primeiro-projeto-camunda/src/main/java/com/example/primeiro/delegate/SomaDelegate.java
+/home/jhoncrespo/Documentos/Projetos/Pessoal/Camunda Project/primeiro-projeto-camunda/src/main/java/com/example/primeiro/Application.java
